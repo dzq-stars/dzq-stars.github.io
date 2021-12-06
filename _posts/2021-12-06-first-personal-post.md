@@ -5,10 +5,10 @@ show_date: true # show the date of the post
 title:  Test my post
 date:   2021-12-06 23:00 0800
 description: "Add my first post"
-img: posts/20210125/Perceptron.jpg 
+img: posts/20211220/test.jpg 
 tags: [personal]
 author: DZQ
 #github: username/reponame/ # set this to show a github button on the post
 toc: yes # leave empty or erase for no table of contents
 ---
-
+s an entry point to learning python and getting into Machine Learning, I decided to code from scratch the Hello World! of the field, a single neuron perceptron.
