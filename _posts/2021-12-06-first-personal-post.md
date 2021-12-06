@@ -5,7 +5,7 @@ show_date: true # show the date of the post
 title:  Test my post
 date:   2021-12-06 23:00 0800
 description: "Add my first post"
-img: posts/20211220/mmq.jpg 
+img: posts/20211206/mmq.jpg 
 tags: [personal]
 author: DZQ
 #github: username/reponame/ # set this to show a github button on the post
