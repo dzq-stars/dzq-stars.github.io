@@ -26,9 +26,8 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Deng Zhiqiu # add your name
 author-pic: Myself-dzq.jpeg
-about-author: Every Teardrop Is a Waterfallxxx.
-about-author-body: Southwest Jiaotong University - Master<br>Major in Computer Technology<br>Chengdu University of Technology - Bachelor<br>Major in Measurement and Control Technology and Instrumentation<br>
-
+about-author: Every Teardrop Is a Waterfall.
+about-author-body: <b><i>Southwest Jiaotong University, Chengdu, ME</i></b><br><i>ME in Computer Technology</i><br><i>Graduated in 2021 with a 3.5 GPA</i><br><br><b><i>Chengdu University of Technology, Chengdu, ME</i></b><br><i>ME in Measurement and Control Technology and Instrumentation</i><br><i>Graduated in 2018 with a 3.9 GPA</i>
 
 # Contact links
 email: dengzhiqiuoutlook-com@hotmail.com # Add your Email address
