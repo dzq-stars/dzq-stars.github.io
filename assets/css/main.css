@@ -1760,7 +1760,7 @@ img + small, img + br + small {
 
 /* = = = = = = = = = = About Page  = = = = = = = = = = */
 .small-wrapper {
-  width: 700px;
+  width: 1000px;
   max-width: 90%;
   margin: 0 auto;
 }
