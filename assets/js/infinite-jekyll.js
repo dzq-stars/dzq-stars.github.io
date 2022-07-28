@@ -89,7 +89,7 @@ $(function() {
       callback();
     });
   }
-  
+  //TODO
   function disableFetching() {
     shouldFetchPosts = false;
     isFetchingPosts = false;
