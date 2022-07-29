@@ -4,7 +4,7 @@ read_time: true # calculate and show read time based on number of words
 show_date: true # show the date of the post  
 title:  阳朔义工之旅  
 date:   2016-08-25 16:00 0800  
-description: "Travel 2016"  
+description: "Travel 201608"  
 img: posts/20160825/1.jpeg  
 tags: [travel]  
 author: DZQ  
