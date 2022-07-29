@@ -2,10 +2,10 @@
 layout: post #ensure this one stays like this  
 read_time: true # calculate and show read time based on number of words  
 show_date: true # show the date of the post  
-title:  二十岁义工之旅  
+title:  阳朔义工之旅  
 date:   2016-08-25 16:00 0800  
 description: "Travel 2016"  
-img: posts/20160718/1.jpeg  
+img: posts/20160825/1.jpeg  
 tags: [travel]  
 author: DZQ  
 #github: username/reponame/ # set this to show a github button on the post  
