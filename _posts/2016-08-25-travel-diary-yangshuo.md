@@ -14,7 +14,7 @@ toc: yes # leave empty or erase for no table of contents
 
 原帖：[马蜂窝游记](http://www.mafengwo.cn/i/5625890.html)  
 
-<这是一篇不正经的travel notes>  
+这是一篇不正经的travel notes  
 学生党只用手机拍照hhh  
 
 ![img](../assets/img/posts/20160825/2.JPG)  
