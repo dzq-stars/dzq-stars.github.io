@@ -1448,7 +1448,7 @@ tweet a {
 
 .page-content {
   margin: auto;
-  margin-top: -80px;
+  margin-top: 0px;
   background-color: var(--background);
   padding: 20px;
   -webkit-border-top-left-radius: 20px;
