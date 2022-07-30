@@ -1,4 +1,4 @@
-{% assign words = page.content | strip_html | number_of_words %}
+{% assign words = page.content | strip_html | strip_newlines | split: "" | size %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
