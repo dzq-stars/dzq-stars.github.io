@@ -1,5 +1,5 @@
 $(function () {
-  // 'use strict';
+  'use strict';
 
   /* -------- Scroll to top button ------- */
   $(".top").click(function() {
