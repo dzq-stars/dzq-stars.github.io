@@ -5,7 +5,7 @@ show_date: true # show the date of the post
 title:  秋招投递记录 
 date:   2020-11-24 15:23 0800  
 description: "Seek Job Record"  
-img: posts/20201023/cat.jpg  
+img: posts/20201023/cat.jpeg  
 tags: [job]  
 author: DZQ  
 #github: username/reponame/ # set this to show a github button on the post  
