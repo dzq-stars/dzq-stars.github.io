@@ -2,7 +2,7 @@
 layout: post #ensure this one stays like this  
 read_time: true # calculate and show read time based on number of words  
 show_date: true # show the date of the post  
-title:  秋招日记 
+title:  秋招记录1 
 date:   2020-10-23 15:23 0800  
 description: "Seek Job"  
 img: posts/20201023/cat.jpeg  
