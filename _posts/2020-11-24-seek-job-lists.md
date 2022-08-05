@@ -12,9 +12,7 @@ author: DZQ
 toc: yes # leave empty or erase for no table of contents  
 ---   
 
-<h3 class="sc-cvbbAY doezLr">招聘信息</h3>
-
-<div class="ennote"><div><div><br></div>
+<h3 class="sc-cvbbAY doezLr">投递进程</h3>
 
 <div>绿 简历挂（含测评挂） 橙 笔试挂 蓝 面试挂</div>
 
